@@ -1,4 +1,4 @@
-#How to install?
+# How to install?
 
 1. pkg install python
 2. pkg install python3
