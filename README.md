@@ -6,3 +6,6 @@
 4. pip install requests
 5. pip install mechanize
 6. pip install bs4
+7. git clone https://github.com/TermuxOps/admod
+8. cd admod
+9. python3 admod.py
